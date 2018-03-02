@@ -20,8 +20,8 @@ stage('Deliver for development') {
         }
 
 
-// i have made some changes as part of dev branch
 
+//now changes from master
 
 
 //this is my new changes
